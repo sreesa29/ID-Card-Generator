@@ -1,7 +1,6 @@
 # ICT-IDCARD-GENERATOR
  FSD B1 PROJECT #02
  
-
 **Project Topic**
 
  ICTAK ID App Generator 
