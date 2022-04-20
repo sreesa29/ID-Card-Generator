@@ -21,6 +21,6 @@ var userSchema = new Schema({
     approvedby:{type: String}
  }, {timestamps:true})
 
-var Users = mongoose.model('users', userSchema)
+var User = mongoose.model('User', userSchema)
 
-module.exports = Users;
+module.exports = User;
