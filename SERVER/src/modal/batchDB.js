@@ -8,6 +8,6 @@ var userSchema = new Schema({
     course: {type: Array},
  }, {timestamps:true})
 
-var Batch = mongoose.model('batch', userSchema)
+var Batch = mongoose.model('Batch', userSchema)
 
 module.exports = Batch;
